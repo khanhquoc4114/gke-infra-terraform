@@ -1,6 +1,6 @@
-project_id = 
-region     = 
-zone       = 
+project_id    = "my-gcp-project"
+region        = "us-central1"
+zone          = "us-central1-a"
 
-name          =
-repository_id =
+name          = "my-gke-cluster"
+repository_id = "my-docker-repo"
